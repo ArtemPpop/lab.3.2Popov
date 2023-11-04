@@ -1,4 +1,5 @@
-﻿int n = 10;
+//Высокий 4
+int n = 10;
 while (n < 100)
 {
     int reversNum = 0;
